@@ -1,10 +1,15 @@
 
+
+.class{
+    background: linear-gradient(#e98a00, #f5aa2f);  
+}
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
 @import 'includes/normalize.min';
 @import 'includes/custom';
-//@import 'includes/animate.min';
+//@import 'includes/animate.min';   
+ 
 
-
-html{
+html{ 
     font-family: 'Open Sans', sans-serif;
-}
+
+} 

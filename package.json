@@ -1,27 +1,25 @@
 {
-  "name": "GravThemeDevelopment",
+  "name": "W3bDevelopment",
   "version": "1.0.0",
   "homepage": "https://matthiasdanzinger.eu",
   "author": "Matthias Danzinger <matthias.danzinger@gmail.com>",
-  "description": "Package for GRAV Theme development",
+  "description": "Package for Webdevelopment. Node-version: 12.16.2",
   "license": "MIT",
   "browserslist": [
-    "last 1 version",
+    "last 5 version",
     "> 1%",
-    "IE 10",
-    "not dead"
+    "IE 10"
   ],
   "devDependencies": {
-    "browser-sync": "latest",
-    "gulp": "latest",
-    "gulp-autoprefixer": "latest",
-    "gulp-clean-css": "latest",
-    "gulp-csscomb": "latest",
-    "gulp-rename": "latest",
-    "gulp-sass": "latest"
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-csscomb": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-wait": "0.0.2"
   },
-  "dependencies": {
-    "gulp-sourcemaps": "latest",
-    "gulp-wait": "latest"
-  }
+  "dependencies": {}
 }
